@@ -1,0 +1,13 @@
+@font-face {
+  font-family: KyivSans;
+  src: url("../fonts/KyivType Sans.otf") format("woff2"),
+  url("../fonts/KyivType Sans.otf") format("woff");
+}
+body {
+  font-size: 1.6rem;
+  font-family: KyivSans,sans-serif;
+  color: #292d32;
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
