@@ -18,6 +18,11 @@
       Every euro or dollar you donate can save someone's life and bring our victory closer.
       We appreciate your support.
       <p>
+        <button @click="showModal" class="arm-button btn-center">
+          Donate
+        </button>
+      </p>
+      <p>
         If you do not trust this site, make a donation
         <a href="https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi">
           the official website of the National Bank of Ukraine
@@ -100,5 +105,9 @@ export default {
       background: #FFFFFF;
       color: #2c3e50;
     }
+  }
+  .btn-center {
+    margin: 0 auto;
+    display: block;
   }
 </style>

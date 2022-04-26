@@ -8,8 +8,8 @@
         :key="network.title"
         :network="network.title"
         url="https://arm-ukraine.com/"
-        title="Тайтл"
-        description="дескріпшн"
+        title="Arm Ukraine"
+        description="How to help the army of Ukraine"
     >
       <div class="icon-wrap">
         <i class="fa" :class="network.icon"></i>
