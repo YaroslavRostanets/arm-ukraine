@@ -1,7 +1,6 @@
 <template>
   <div class="bottom-stripe">
-    Русский военный корабль, иди нах*й! <br>
-    Powered by Yaroslav R.
+    Русский военный корабль, иди нах*й! © 2022 Developed by non-commercial organization "Товариство київських ілюмінатів"
   </div>
 </template>
 
@@ -19,5 +18,6 @@ export default {
   font-size: 0.75rem;
   padding-top: 3px;
   padding-bottom: 3px;
+  text-align: center;
 }
 </style>
