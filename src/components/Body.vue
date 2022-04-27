@@ -63,49 +63,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .zsu-logo {
-    width: 100px;
-    margin-right: 45px;
-    img {
-      display: block;
-      max-width: 100%;
-      max-height: 100%;
-    }
-  }
-  .button-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 4rem 0;
-  }
-  .text {
-    color: #FFFFFF;
-    width: 80%;
-    max-width: 1200px;
-    text-align: left;
-    margin: 0 auto;
-    padding: 2rem;
-    background: rgba(0, 0, 0, 0.7);
-    font-size: 1.3rem;
-    line-height: 1.75rem;
-    a {
-      color: #FFFFFF;
-    }
-  }
-  .arm-button {
-    background: transparent;
-    border: 2px solid #FFFFFF;
-    color: #FFFFFF;
-    text-transform: uppercase;
-    font-size: 1.2rem;
-    padding: 0.4rem;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    &:hover {
-      background: #FFFFFF;
-      color: #2c3e50;
-    }
-  }
   .btn-center {
     margin: 0 auto;
     display: block;

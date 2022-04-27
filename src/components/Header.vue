@@ -14,21 +14,3 @@ export default {
   name: "HeaderPart"
 }
 </script>
-
-<style lang="scss" scoped>
-.header {
-  display: flex;
-  justify-content: space-between;
-  z-index: 5;
-  padding: 5.6rem 7rem 0 7rem;
-}
-.header__title {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  a {
-    color: #ffffff;
-  }
-}
-
-</style>

@@ -45,27 +45,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .share {
-    margin-top: 2rem;
-    display: flex;
-    .icon-wrap {
-      background: rgba(255, 255, 255, 0.3);
-      width: 25px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 4px;
-    }
-    a {
-      border: 1px solid #FFFFFF;
-      font-size: 1rem;
-      text-decoration: none;
-      margin-right: 8px;
-      color: #FFFFFF;
-      display: flex;
-      padding-right: 5px;
-    }
-  }
   .prelog {
     margin-right: 10px;
   }

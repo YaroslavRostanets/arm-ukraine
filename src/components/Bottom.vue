@@ -11,13 +11,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.bottom-stripe {
-  margin-top: auto;
-  color: #FFFFFF;
-  background: rgba(0, 0, 0, 0.7);
-  font-size: 0.75rem;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  text-align: center;
-}
+
 </style>

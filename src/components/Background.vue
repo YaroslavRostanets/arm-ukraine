@@ -32,9 +32,9 @@ export default {
   min-height: 100vh;
   position: absolute;
   top: 0;
+  bottom: 0;
   left: 0;
   width: 100%;
-  // animation: fadein 2s;
   background-size: cover;
   transition: opacity 2s ease;
 }
